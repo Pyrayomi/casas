@@ -1,0 +1,22 @@
+ID;Pergunta;Lógica;A;Nó A;B;Nó B
+1;Qual a área do terreno (pés quadrado)?;7101.5;SIM;2;NÃO;3
+2;Qual a área superior (pés quadrado)?;1115.0;SIM;4;NÃO;5
+3;Qual a área do terreno(pés quadrado)?;8843.0;SIM;6;NÃO;7
+4;NÓ FOLHA;NÓ FOLHA;ABAIXO DO MERCADO;;;
+5;Qual o preço?;232000.0;SIM;8;NÃO;9
+6;Qual o preço?;238450.0;SIM;10;NÃO;11
+7;Qual o preço?;299500.0;SIM;12;NÃO;13
+8;Qual a área de convivência em relação a 2015 (pés quadrado)?;1805.0;SIM;14;NÃO;15
+9;Qual o ano de construção?;1985.5;SIM;16;NÃO;17
+10;NÓ FOLHA;NÓ FOLHA;ABAIXO DO MERCADO
+11;Qual o preço?;301247.5;SIM;18;NÃO;19
+12;NÓ FOLHA;NÓ FOLHA;ABAIXO DO MERCADO;;;
+13;Qual a área do terreno? (pés quadrado);11664.0;SIM;20;NÃO;21
+14;NÓ FOLHA;NÓ FOLHA;ABAIXO DO MERCADO;;;
+15;NÓ FOLHA;NÓ FOLHA;COMPATIVEL COM MERCADO;;;
+16;NÓ FOLHA;NÓ FOLHA;ACIMA DO MERCADO;;;
+17;NÓ FOLHA;NÓ FOLHA;ACIMA DO MERCADO;;;
+18;NÓ FOLHA;NÓ FOLHA;COMPATIVEL COM MERCADO;;;
+19;NÓ FOLHA;NÓ FOLHA;ACIMA DO MERCADO;;;
+20;NÓ FOLHA;NÓ FOLHA;COMPATIVEL COM MERCADO;;;
+21;NÓ FOLHA;NÓ FOLHA;ABAIXO DO MERCADO;;;
